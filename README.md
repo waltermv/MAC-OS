@@ -45,7 +45,7 @@ qemu−system−x86_64 −hda MAC_OS.bin
 
 ### Ejecución del código en WebAssembly
 
-Es posible ejecutar el programa utilizando un navegador web al utilizar el programa v86, unicamente es necesario subir el archivo “MAC OS.bin” y comenzar a correr el sistema. El sitio web en cuestión es http://copy.sh/v86/
+Es posible ejecutar el programa utilizando un navegador web al utilizar el programa v86, unicamente es necesario subir el archivo “MAC OS.bin” en la sección “Hard drive disk image” y comenzar a correr el sistema. El sitio web en cuestión es http://copy.sh/v86/
 
 ## Estado
 
